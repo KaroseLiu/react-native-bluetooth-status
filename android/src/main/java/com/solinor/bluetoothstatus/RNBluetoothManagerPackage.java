@@ -15,7 +15,7 @@ public class RNBluetoothManagerPackage implements ReactPackage {
       return Arrays.<NativeModule>asList(new RNBluetoothManagerModule(reactContext));
     }
 
-    @Override
+    // Remove the @Override
     public List<Class<? extends JavaScriptModule>> createJSModules() {
       return Collections.emptyList();
     }
