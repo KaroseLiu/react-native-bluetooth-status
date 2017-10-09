@@ -1,16 +1,16 @@
 
-# react-native-bluetooth-status
+# react-native-bluetooth-status-new
 
 React Native library to query and manage bluetooth state. Querying the bluetooth state works cross-plaform (iOS & Android). 
 In addition, iOS can open the bluetooth settings and Android can directly enable / disable bluetooth.
 
 ## Getting started
 
-`$ npm install react-native-bluetooth-status --save`
+`$ npm install react-native-bluetooth-status-new --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-bluetooth-status`
+`$ react-native link react-native-bluetooth-status-new`
 
 ### Manual installation
 
